@@ -31,15 +31,15 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>Vaibhav</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-4 h-4 mr-2" />
-                <span>contact@healthcare.plus</span>
+                <span>vaibhavkodes@gmail.com</span>
               </li>
               <li className="flex items-center">
                 <MapPin className="w-4 h-4 mr-2" />
-                <span>123 Medical Center Dr, City, State</span>
+                <span>9350091092</span>
               </li>
             </ul>
           </div>
